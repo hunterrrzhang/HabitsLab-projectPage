@@ -19,4 +19,4 @@ Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph 
 
 Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph
 
-![Example image](/img/ht.png)
+![Example image](https://hunterrrzhang.github.io/HabitsLab-projectPage/img/ht.png)
