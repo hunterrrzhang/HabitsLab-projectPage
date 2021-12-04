@@ -22,7 +22,7 @@ Behavior at a fine-grained level, and build and validate non-visual wearable dev
 
 In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
 
-![Example image]({{https://hunterrrzhang.github.io/HabitsLab-projectPage/img/ht.png}})
+![Example image](https://hunterrrzhang.github.io/HabitsLab-projectPage/img/ht.png)
 
 ### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
 
